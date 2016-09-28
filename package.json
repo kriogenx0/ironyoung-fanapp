@@ -1,0 +1,22 @@
+{
+  "name": "ironyoung-fanapp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriogenx0/ironyoung-fanapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriogenx0/ironyoung-fanapp/issues"
+  },
+  "homepage": "https://github.com/kriogenx0/ironyoung-fanapp#readme",
+  "dependencies": {
+    "cordova-plugin-device": "^1.1.3"
+  }
+}
